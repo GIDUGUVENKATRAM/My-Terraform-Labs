@@ -1,2 +1,2 @@
 # My-Terraform-Labs
-Created Terrform scripts to provision the Infrastructure
+Creating Terrform scripts to provision the Infrastructure
